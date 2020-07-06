@@ -7,4 +7,4 @@ Although I know it's not possible or feasible sometimes, but I'd still prefer wr
 
 I really admire people who understand the value of time and respect flexibility among their colleagues. Remote work is one such example.
 
-While I’m not doing all that I think about traveling the world and riding a bike with my wife.
+When I’m not pushing commits, I think about traveling the world and riding a bike with my wife.
