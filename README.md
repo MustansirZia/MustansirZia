@@ -8,3 +8,5 @@ Even though I know it's not possible or feasible sometimes, but I'd still prefer
 I really admire people who understand the value of time and respect flexibility among their colleagues. Remote work is one such example.
 
 When I’m not pushing commits, I think about traveling the world and riding a bike with my wife.
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=mustansirzia)
