@@ -9,6 +9,8 @@ I really admire people who understand the value of time and respect flexibility 
 
 When I’m not pushing commits, I think about traveling the world and riding a bike with my wife.
 
+<br />
+
 #### Here's What I Do Professionally:
 I'm part of geographically distributed team called [Hubilo](https://hubilo.com). We help bring people together in virtual events and try to recreate experiences that are akin to physical meetups. 
 
