@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+
+
 > ”Premature optimization is the root of all evil, 97% of the time; Yet we should not pass opportunities in that critical 3%.” - David Knut
 
 
@@ -15,3 +18,9 @@ I'm part of geographically distributed team called [Hubilo](https://hubilo.com).
 I spend most of my time authoring and maintaining Hubilo's distributed backend. 
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mustansirzia)
+
+#### Here's my Internet Footprint:
+* I write all my blog posts [here](https://mustansir.dev).
+* I create or live stream videos and tutorials related to computer programming [here](https://www.youtube.com/channel/UCPf1JC3zhos7kOWBkSJrNVw). 
+* I tweet stuff on Twitter ![twitter icon](http://i.imgur.com/wWzX9uB.png) [here](https://twitter.com/MustansirZia).
+* I'm available on LinkedIn too, that's [here](https://www.linkedin.com/in/mustansirzia).
