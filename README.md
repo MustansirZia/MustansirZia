@@ -24,7 +24,7 @@ I spend most of my time authoring and maintaining Hubilo's distributed backend.
 * I'm available on LinkedIn too, that's [here](https://www.linkedin.com/in/mustansirzia).
 
 #### Here's How to Support Me:
-* Support all my OSS work by [buying me a coffee ☕](https://www.buymeacoffee.com/MustansirZia)!
+* Support all my OSS work by [buying me a coffee ☕](https://www.buymeacoffee.com/MustansirZia).
  
 <a href="https://www.buymeacoffee.com/MustansirZia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza" style="height: 40px !important;width: 150px !important;" ></a>
 
