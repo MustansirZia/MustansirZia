@@ -28,4 +28,4 @@ I spend most of my time authoring and maintaining Hubilo's distributed backend.
  
 <a href="https://www.buymeacoffee.com/MustansirZia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza" style="height: 40px !important;width: 150px !important;" ></a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mustansirzia)
+![visitors](https://markdown-visitor-badge.vercel.app/api/count)
