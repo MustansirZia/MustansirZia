@@ -23,9 +23,37 @@ I spend most of my time authoring and maintaining Hubilo's distributed backend.
 * I tweet stuff on Twitter ![twitter icon](http://i.imgur.com/wWzX9uB.png) [here](https://twitter.com/MustansirZia).
 * I'm available on LinkedIn too, that's [here](https://www.linkedin.com/in/mustansirzia).
 
+#### Here are my top repositories:
+
+<a href="https://github.com/MustansirZia/react-native-fused-location">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=react-native-fused-location" />
+</a>
+
+<a href="https://github.com/MustansirZia/overlay_container">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=overlay_container" />
+</a>
+
+<br />
+
+<a href="https://github.com/MustansirZia/next-express-bootstrap-boilerplate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=next-express-bootstrap-boilerplate" />
+</a>
+
 #### Here's How to Support Me:
 * Support all my OSS work by [buying me a coffee ☕](https://www.buymeacoffee.com/MustansirZia).
  
 <a href="https://www.buymeacoffee.com/MustansirZia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza" style="height: 40px !important;width: 150px !important;" ></a>
 
+### LeetCode:
+![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mustansirzia&theme=dark)
+
+
+
+<!-- <a href="https://github.com/MustansirZia?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustansirzia&layout=compact&langs_count=8" />
+</a> -->
+
 ![visitors](https://markdown-visitor-badge.vercel.app/api/count?countBgColor=%23607fff&countColor=rgb(255,255,255))
+
+
+
