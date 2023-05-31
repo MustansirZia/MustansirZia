@@ -63,11 +63,10 @@ I spend most of my time authoring and maintaining Hubilo's distributed backend.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=Decky" />
 </a>
 
-
-
-<a href="https://github.com/MustansirZia/institutions-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=institutions-api" />
+<a href="https://github.com/MustansirZia/textcord">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=textcord" />
 </a>
+
 
 <br />
 <br />
@@ -84,9 +83,10 @@ I spend most of my time authoring and maintaining Hubilo's distributed backend.
 <br />
 <br />
 
-<a href="https://github.com/MustansirZia/textcord">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=textcord" />
+<a href="https://github.com/MustansirZia/institutions-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=institutions-api" />
 </a>
+
 
 <a href="https://github.com/MustansirZia/js-exam">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=js-exam" />
