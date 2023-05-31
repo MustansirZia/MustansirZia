@@ -17,11 +17,92 @@ I'm part of geographically distributed team called [Hubilo](https://hubilo.com).
 
 I spend most of my time authoring and maintaining Hubilo's distributed backend. 
 
-#### Here's my Internet Footprint:
+#### Here's My Internet Footprint:
 * I write all my blog posts [here](https://mustansir.dev).
 * I create or live stream videos and tutorials related to computer programming [here](https://www.youtube.com/channel/UCPf1JC3zhos7kOWBkSJrNVw). 
 * I tweet stuff on Twitter ![twitter icon](http://i.imgur.com/wWzX9uB.png) [here](https://twitter.com/MustansirZia).
 * I'm available on LinkedIn too, that's [here](https://www.linkedin.com/in/mustansirzia).
+
+#### Here Are My Top Repositories:
+
+<a href="https://github.com/MustansirZia/react-native-fused-location">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=react-native-fused-location" />
+</a>
+
+<a href="https://github.com/MustansirZia/next-express-bootstrap-boilerplate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=next-express-bootstrap-boilerplate" />
+</a>
+
+<br />
+<br />
+
+
+<a href="https://github.com/MustansirZia/overlay_container">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=overlay_container" />
+</a>
+
+<a href="https://github.com/MustansirZia/go-rethinklogger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=go-rethinklogger" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/MustansirZia/serverless-link-preview">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=serverless-link-preview" />
+</a>
+
+<a href="https://github.com/MustansirZia/mustansir.npx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=mustansir.npx" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/MustansirZia/Decky">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=Decky" />
+</a>
+
+
+
+<a href="https://github.com/MustansirZia/institutions-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=institutions-api" />
+</a>
+
+<br />
+<br />
+
+
+<a href="https://github.com/MustansirZia/csgo-dedicated-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=csgo-dedicated-server" />
+</a>
+
+<a href="https://github.com/MustansirZia/markdown-visitor-badge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=markdown-visitor-badge" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/MustansirZia/textcord">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=textcord" />
+</a>
+
+<a href="https://github.com/MustansirZia/js-exam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=js-exam" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/MustansirZia?tab=repositories" style="align:center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustansirzia&layout=compact&langs_count=8" />
+</a>
+
+#### Here are My LeetCode Solutions:
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=mustansirzia&theme=dark)](https://leetcode.com/mustansirzia/)
+
+*I know! This is work in progress. ;)*
 
 #### Here's How to Support Me:
 * Support all my OSS work by [buying me a coffee ☕](https://www.buymeacoffee.com/MustansirZia).
@@ -29,3 +110,6 @@ I spend most of my time authoring and maintaining Hubilo's distributed backend.
 <a href="https://www.buymeacoffee.com/MustansirZia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza" style="height: 40px !important;width: 150px !important;" ></a>
 
 ![visitors](https://markdown-visitor-badge.vercel.app/api/count?countBgColor=%23607fff&countColor=rgb(255,255,255))
+
+
+
