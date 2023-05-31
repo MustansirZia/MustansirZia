@@ -29,16 +29,10 @@ I spend most of my time authoring and maintaining Hubilo's distributed backend.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=react-native-fused-location" />
 </a>
 
-<br />
-<br />
 
 <a href="https://github.com/MustansirZia/next-express-bootstrap-boilerplate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=next-express-bootstrap-boilerplate" />
 </a>
-
-<br />
-<br />
-
 
 <a href="https://github.com/MustansirZia/overlay_container">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=overlay_container" />
@@ -58,9 +52,6 @@ I spend most of my time authoring and maintaining Hubilo's distributed backend.
 <a href="https://github.com/MustansirZia/serverless-link-preview">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=serverless-link-preview" />
 </a>
-
-<br />
-<br />
 
 
 <a href="https://github.com/MustansirZia/mustansir.npx">
@@ -90,9 +81,6 @@ I spend most of my time authoring and maintaining Hubilo's distributed backend.
 <a href="https://github.com/MustansirZia/markdown-visitor-badge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=markdown-visitor-badge" />
 </a>
-
-<br />
-<br />
 
 <a href="https://github.com/MustansirZia/institutions-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=institutions-api" />
