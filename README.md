@@ -56,6 +56,7 @@ I spend most of my time authoring and maintaining Hubilo's distributed backend.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=mustansir.npx" />
 </a>
 
+<!-- 
 <br />
 <br />
 
@@ -66,7 +67,6 @@ I spend most of my time authoring and maintaining Hubilo's distributed backend.
 <a href="https://github.com/MustansirZia/textcord">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=textcord" />
 </a>
-
 
 <br />
 <br />
@@ -91,13 +91,14 @@ I spend most of my time authoring and maintaining Hubilo's distributed backend.
 <a href="https://github.com/MustansirZia/js-exam">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=js-exam" />
 </a>
+-->
 
 <br />
 <br />
 
 <a href="https://github.com/MustansirZia?tab=repositories" style="align:center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustansirzia&layout=compact&langs_count=8" />
-</a>
+</a> 
 
 #### Here are My LeetCode Solutions:
 [![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=mustansirzia&theme=dark)](https://leetcode.com/mustansirzia/)
