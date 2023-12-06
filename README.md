@@ -20,7 +20,7 @@ I spend most of my time authoring and maintaining Hubilo's distributed backend.
 #### Here's My Internet Footprint:
 * I write all my blog posts [here](https://mustansir.dev).
 * I create or live stream videos and tutorials related to computer programming [here](https://www.youtube.com/channel/UCPf1JC3zhos7kOWBkSJrNVw). 
-* I tweet stuff on Twitter ![twitter icon](http://i.imgur.com/wWzX9uB.png) [here](https://twitter.com/MustansirZia).
+* I post stuff on X ![twitter icon](http://i.imgur.com/wWzX9uB.png) [here](https://twitter.com/MustansirZia).
 * I'm available on LinkedIn too, that's [here](https://www.linkedin.com/in/mustansirzia).
 
 #### Here Are My Top Repositories:
