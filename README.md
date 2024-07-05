@@ -13,7 +13,7 @@ I really admire people who understand the value of time and respect flexibility 
 When I’m not pushing commits, I think about traveling the world and riding a bike with my wife.
 
 #### Here's What I Do Professionally:
-I'm part of geographically distributed team called [ClearGlass](https://clearglass.com). We are a fintech company that's trying to bring transparency in an industry that's been plagued by unfair costs which could ultimately result in people getting better returns for their lifetime of savings.   
+I'm part of geographically distributed team called [ClearGlass](https://clearglass.com). We are a fintech company that's trying to bring transparency in an industry that's been plagued by unfair costs. What we do could ultimately result in millions of people getting better returns for their lifetime of savings.   
 
 I spend most of my time authoring and maintaining ClearGlass's distributed backend. 
 
