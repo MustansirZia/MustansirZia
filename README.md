@@ -101,7 +101,7 @@ I spend most of my time authoring and maintaining ClearGlass's distributed backe
 </a> 
 
 #### Here are My LeetCode Solutions:
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=mustansirzia&theme=dark)](https://leetcode.com/mustansirzia/)
+[![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/mustansirzia?theme=dark&bgColor=282828)](https://leetcode.com/mustansirzia/)
 
 *I know! This is still a work in progress. ;)*
 
