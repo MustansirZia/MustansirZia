@@ -15,7 +15,7 @@ When I’m not pushing commits, I think about traveling the world and riding a b
 #### Here's What I Do Professionally:
 I'm part of geographically distributed team called [ClearGlass](https://clearglass.com). We are a fintech company that's trying to bring transparency in an industry that's been plagued by unfair costs. What we do could ultimately result in millions of people getting better returns for their lifetime of savings.   
 
-I spend most of my time authoring and maintaining ClearGlass's distributed backend which manages critical financial data. 
+I spend most of my time authoring and maintaining ClearGlass's distributed backend which houses critical financial data. 
 
 #### Here's My Internet Footprint:
 * I write all my blog posts [here](https://mustansir.dev).
