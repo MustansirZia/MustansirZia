@@ -62,11 +62,11 @@ I spend most of my time authoring and maintaining ClearGlass's distributed backe
 <br />
 
 <a href="https://github.com/MustansirZia/Decky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=Decky" />
+  <img align="center" src="https://github-readme-stats-from-mustansir.vercel.app/api/pin/?username=mustansirzia&repo=Decky" />
 </a>
 
 <a href="https://github.com/MustansirZia/textcord">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=textcord" />
+  <img align="center" src="https://github-readme-stats-from-mustansir.vercel.app/api/pin/?username=mustansirzia&repo=textcord" />
 </a>
 
 <br />
@@ -74,22 +74,22 @@ I spend most of my time authoring and maintaining ClearGlass's distributed backe
 
 
 <a href="https://github.com/MustansirZia/csgo-dedicated-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=csgo-dedicated-server" />
+  <img align="center" src="https://github-readme-stats-from-mustansir.vercel.app/api/pin/?username=mustansirzia&repo=csgo-dedicated-server" />
 </a>
 
 <a href="https://github.com/MustansirZia/markdown-visitor-badge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=markdown-visitor-badge" />
+  <img align="center" src="https://github-readme-stats-from-mustansir.vercel.app/api/pin/?username=mustansirzia&repo=markdown-visitor-badge" />
 </a>
 
 <br />
 <br />
 
 <a href="https://github.com/MustansirZia/institutions-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=institutions-api" />
+  <img align="center" src="https://github-readme-stats-from-mustansir.vercel.app/api/pin/?username=mustansirzia&repo=institutions-api" />
 </a>
 
 <a href="https://github.com/MustansirZia/js-exam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=js-exam" />
+  <img align="center" src="https://github-readme-stats-from-mustansir.vercel.app/api/pin/?username=mustansirzia&repo=js-exam" />
 </a>
 -->
 
@@ -97,7 +97,7 @@ I spend most of my time authoring and maintaining ClearGlass's distributed backe
 <br />
 
 <a href="https://github.com/MustansirZia?tab=repositories" style="align:center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustansirzia&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats-from-mustansir.vercel.app/api/top-langs/?username=mustansirzia&layout=compact&langs_count=8" />
 </a> 
 
 #### Here are My LeetCode Solutions:
