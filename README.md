@@ -26,23 +26,23 @@ I spend most of my time authoring and maintaining ClearGlass's distributed backe
 #### Here Are My Top Repositories:
 
 <a href="https://github.com/MustansirZia/react-native-fused-location" style="padding-bottom:10px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=react-native-fused-location" />
+  <img align="center" src="https://github-readme-stats-from-mustansir.vercel.app/api/pin/?username=mustansirzia&repo=react-native-fused-location" />
 </a>
 
 <a href="https://github.com/MustansirZia/next-express-bootstrap-boilerplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=next-express-bootstrap-boilerplate" />
+  <img align="center" src="https://github-readme-stats-from-mustansir.vercel.app/api/pin/?username=mustansirzia&repo=next-express-bootstrap-boilerplate" />
 </a>
 
 <br />
 <br />
 
 <a href="https://github.com/MustansirZia/overlay_container">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=overlay_container" />
+  <img align="center" src="https://github-readme-stats-from-mustansir.vercel.app/api/pin/?username=mustansirzia&repo=overlay_container" />
 </a>
 
 
 <a href="https://github.com/MustansirZia/go-rethinklogger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=go-rethinklogger" />
+  <img align="center" src="https://github-readme-stats-from-mustansir.vercel.app/api/pin/?username=mustansirzia&repo=go-rethinklogger" />
 </a>
 
 <br />
@@ -54,7 +54,7 @@ I spend most of my time authoring and maintaining ClearGlass's distributed backe
 
 
 <a href="https://github.com/MustansirZia/mustansir.npx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=mustansir.npx" />
+  <img align="center" src="https://github-readme-stats-from-mustansir.vercel.app/api/pin/?username=mustansirzia&repo=mustansir.npx" />
 </a>
 
 <!-- 
