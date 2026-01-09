@@ -49,7 +49,7 @@ I spend most of my time authoring and maintaining ClearGlass's distributed backe
 <br />
 
 <a href="https://github.com/MustansirZia/serverless-link-preview">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustansirzia&repo=serverless-link-preview" />
+  <img align="center" src="https://github-readme-stats-from-mustansir.vercel.app/api/pin/?username=mustansirzia&repo=serverless-link-preview" />
 </a>
 
 
